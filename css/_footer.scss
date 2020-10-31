@@ -1,6 +1,8 @@
 footer {
   @include sectionCommonStyles(row, #333);
 
+  height: $basicSize * $someValue;
+
   color: #fff;
 
   p {

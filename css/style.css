@@ -17,6 +17,7 @@ header {
       -ms-flex-direction: column;
           flex-direction: column;
   background-color: #fff;
+  height: 100vh;
 }
 
 header h1 {
@@ -25,7 +26,7 @@ header h1 {
 }
 
 header h1:hover {
-  color: #624ebe;
+  color: #b2a6e7;
 }
 
 header h1::after {
@@ -51,6 +52,7 @@ section {
       -ms-flex-direction: column;
           flex-direction: column;
   background-color: #999;
+  height: 100vh;
 }
 
 section h1 {
@@ -84,6 +86,8 @@ footer {
       -ms-flex-direction: row;
           flex-direction: row;
   background-color: #333;
+  height: 100vh;
+  height: 200px;
   color: #fff;
 }
 

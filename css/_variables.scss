@@ -1,4 +1,6 @@
 $titleColor : #2d1e70;
-$titleHoverColor : #624ebe;
+$titleHoverColor : lighten($titleColor, 50%);
 $basicFont : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 $headerFont : Arial;
+$basicSize: 20px;
+$someValue: 10;
