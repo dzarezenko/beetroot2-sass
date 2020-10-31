@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  h1 {
+    color: $titleColor;
+    font-family: $headerFont;
+
+    &:hover {
+      color: $titleHoverColor;
+    }
+
+    &::after{
+      content: "title";
+    }
+
+  }
+
+  p {
+    font-family: $basicFont;
+  }
+}

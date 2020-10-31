@@ -1,0 +1,19 @@
+section {
+  h1 {
+    color: $titleColor;
+  }
+
+  p {
+    font-family: $basicFont;
+  }
+
+  form {
+
+    border: 1px solid red;
+
+    button {
+      border: 1px solid $titleColor;
+    }
+
+  }
+}
