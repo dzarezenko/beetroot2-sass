@@ -1,10 +1,13 @@
 footer {
+  @include sectionCommonStyles(row, #333);
+
+  color: #fff;
 
   p {
     font-family: $basicFont;
   }
 
   a {
-    color: $titleColor;
+    color: #7b7be9;
   }
 }

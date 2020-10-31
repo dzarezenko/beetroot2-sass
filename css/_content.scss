@@ -1,4 +1,6 @@
 section {
+  @include sectionCommonStyles(column, #999);
+
   h1 {
     color: $titleColor;
   }
