@@ -1,13 +1,17 @@
+body {
+
+}
+
 header {
 
 }
 
 header h1 {
-
+  color: #2d1e70;
 }
 
 header p {
-
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 section {
@@ -15,19 +19,15 @@ section {
 }
 
 section h1 {
-
+  color: #2d1e70;
 }
 
 section p {
-
-}
-
-section form {
-
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 section form button {
-
+  border: 1px solid #2d1e70;
 }
 
 footer {
@@ -35,9 +35,9 @@ footer {
 }
 
 footer p {
-
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 footer a {
-
+  color: #2d1e70;
 }
