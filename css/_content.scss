@@ -6,6 +6,8 @@ section {
   }
 
   p {
+    @extend body;
+
     font-family: $basicFont;
   }
 

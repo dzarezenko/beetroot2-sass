@@ -1,3 +1,7 @@
+body, section p {
+  color: red;
+}
+
 header {
   display: -webkit-box;
   display: -ms-flexbox;
