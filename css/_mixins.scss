@@ -1,0 +1,7 @@
+@mixin sectionCommonStyles($flexDirect, $bgColor) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: $flexDirect;
+  background-color: $bgColor;
+}
